@@ -1,6 +1,6 @@
 # Tasca Git Pull Requests
 
-Nom: Sofia Martín Peñarroya
+Nom: Sofia Martín Peñarroya  
 Data: 03 des 2025
 
 ---
